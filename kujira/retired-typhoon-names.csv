@@ -1,0 +1,55 @@
+name,"replacement_name",dates_active,"peak_classification","sustained_wind_speeds",pressure,"areas_affected",damage_USD,deaths,retired_at
+Lucille,,"May 25 – June 4, 1960",Tropical storm,85 km/h (50 mph),985 hPa (29.09 inHg),Philippines,$2 million,300–500,Pre-2000S
+Ophelia,,"November 21 – December 6, 1960",Category 4 super typhoon,250 km/h (155 mph),925 hPa (27.32 inHg),Caroline Islands,Unknown,2,Pre-2000S
+Karen,,"November 7 – 17, 1962",Category 5 super typhoon,295 km/h (185 mph),894 hPa (26.40 inHg),Guam,$250 million,11,Pre-2000S
+Bess,,"October 8 – 14, 1974",Category 1 typhoon,120 km/h (75 mph),977 hPa (28.85 inHg),"Philippines, China, Vietnam",$9.2 million,32,Pre-2000S
+Bess,,"July 21 – August 3, 1982",Category 5 super typhoon,260 km/h (160 mph),900 hPa (26.58 inHg),Japan,$2.32 billion,95,Pre-2000S
+Ike,,"August 26 – September 6, 1984",Category 4 typhoon,230 km/h (145 mph),950 hPa (28.05 inHg),"Guam, Philippines, China",$1 billion,"1,142",Pre-2000S
+Roy,,"January 7 – 19, 1988",Category 4 typhoon,215 km/h (135 mph),940 hPa (27.76 inHg),"Micronesia, Philippines",$28.5 million,2,Pre-2000S
+Mike,,"November 5 – 18, 1990",Category 5 super typhoon,280 km/h (175 mph),915 hPa (27.02 inHg),"Micronesia, Philippines, China",$389 million,748,Pre-2000S
+Mireille,,"September 13 – 27, 1991",Category 4 super typhoon,240 km/h (150 mph),925 hPa (27.32 inHg),"Mariana Islands, Japan, South Korea",$10 billion,66,Pre-2000S
+Thelma,,"November 1 – 8, 1991",Tropical storm,85 km/h (50 mph),992 hPa (29.29 inHg),"Philippines, Vietnam",$27.7 million,"5,081–8,145",Pre-2000S
+Omar,,"August 20 – September 6, 1992",Category 4 super typhoon,240 km/h (150 mph),920 hPa (27.17 inHg),"Mariana Islands, Guam, Taiwan, China",$561 million,15,Pre-2000S
+Vamei,Peipah,"December 26, 2001 – January 1, 2002",Tropical storm,85 km/h (50 mph),1006 hPa (29.71 inHg),"Singapore, Malaysia, Indonesia",$3.6 million,5,2000S
+Chataan,Matmo,"June 27 – July 13, 2002",Typhoon,175 km/h (110 mph),930 hPa (27.46 inHg),"Chuuk, Guam, Japan",$660 million,54,2000S
+Rusa,Nuri,"August 22 – September 4, 2002",Typhoon,150 km/h (90 mph),950 hPa (28.05 inHg),"Japan, Korean Peninsula",$4.2 billion,238,2000S
+Pongsona,Noul,"December 2 – 12, 2002",Typhoon,165 km/h (105 mph),940 hPa (27.76 inHg),Mariana Islands,$730 million,1,2000S
+Yanyan,Dolphin,"January 11 – 21, 2003",Tropical storm,65 km/h (40 mph),1000 hPa (29.53 inHg),Mariana Islands,None,None,2000S
+Imbudo,Molave,"July 15 – 25, 2003",Typhoon,165 km/h (105 mph),935 hPa (27.61 inHg),"Philippines, China",$340 million,64,2000S
+Maemi,Mujigae,"September 4 – 16, 2003",Typhoon,195 km/h (120 mph),910 hPa (26.87 inHg),Korean Peninsula,$4.8 billion,117,2000S
+Sudal,Mirinae,"April 2 – 18, 2004",Typhoon,165 km/h (105 mph),940 hPa (27.76 inHg),"Yap, Guam",$14 million,None,2000S
+Tingting,Lionrock,"June 24 – July 4, 2004",Typhoon,150 km/h (90 mph),955 hPa (28.20 inHg),"Mariana Islands, Japan",$23.7 million,12,2000S
+Rananim,Fanapi,"August 6 – 15, 2004",Typhoon,150 km/h (90 mph),950 hPa (28.05 inHg),"China, Japan",$2.44 billion,169,2000S
+Matsa,Pakhar,"July 30 – August 9, 2005",Typhoon,150 km/h (90 mph),950 hPa (28.05 inHg),"China, Taiwan",$2.23 billion,29,2000S
+Nabi,Doksuri,"August 29 – September 9, 2005",Typhoon,175 km/h (110 mph),925 hPa (27.32 inHg),"Mariana Islands, Japan, South Korea",$535 million,32,2000S
+Longwang,Haikui,"September 25 – October 3, 2005",Typhoon,175 km/h (110 mph),930 hPa (27.46 inHg),"Taiwan, China",$971 million,149,2000S
+Chanchu,Sanba,"May 8 – 19, 2006",Typhoon,175 km/h (110 mph),930 hPa (27.46 inHg),"Philippines, Taiwan, China, Vietnam",$478 million,268,2000S
+Bilis,Maliksi,"July 8 – 16, 2006",Severe tropical storm,110 km/h (70 mph),970 hPa (28.64 inHg),"Philippines, Taiwan, China",$4.4 billion,859,2000S
+Saomai,Son-Tinh,"August 4 – 11, 2006",Typhoon,195 km/h (120 mph),925 hPa (27.32 inHg),"Mariana Islands, Taiwan, China",$2.5 billion,458,2000S
+Xangsane,Leepi,"September 25 – October 2, 2006",Typhoon,155 km/h (100 mph),925 hPa (27.76 inHg),"Philippines, Vietnam, Thailand",$750 million,312,2000S
+Durian,Mangkhut,"November 25 – December 7, 2006",Typhoon,195 km/h (120 mph),915 hPa (27.02 inHg),"Philippines, Vietnam, Thailand",>$400 million,">1,500",2000S
+Morakot,Atsani,"August 2 – 12, 2009",Typhoon,140 km/h (85 mph),945 hPa (27.90 inHg),"Taiwan, China, Korean Peninsula",$6.2 billion,789,2000S
+Ketsana,Champi,"September 23 – 30, 2009",Typhoon,130 km/h (80 mph),960 hPa (28.35 inHg),"Philippines, Vietnam, Laos Cambodia, Thailand",$1.09 billion,710,2000S
+Parma,In-fa,"September 27 – October 14, 2009",Typhoon,185 km/h (115 mph),930 hPa (27.46 inHg),"Philippines, China, Vietnam",$617 million,500,2000S
+Haiyan,Bailu,"November 3 – 11, 2013",Typhoon,230 km/h (145 mph),895 hPa (26.43 inHg),"Palau, Philippines, Vietnam, China",$4.55 billion,"8,052",2010S
+Washi,Hato,"December 13 – 19, 2011",Severe tropical storm,95 km/h (60 mph),992 hPa (29.29 inHg),"Micronesia, Palau, Philippines",$97.8 million,"2,546",2010S
+Bopha,Ampil,"November 25 – December 9, 2012",Typhoon,185 km/h (115 mph),930 hPa (27.46 inHg),"Micronesia, Philippines",$1.04 billion,"1,901",2010S
+Tembin,Koinu,"December 20 – 26, 2017",Typhoon,130 km/h (80 mph),970 hPa (28.64 inHg),"Philippines, Malaysia, Vietnam",$42.4 million,266
+Rammasun,Bualoi,"July 9 – 20, 2014",Typhoon,165 km/h (105 mph),935 hPa (27.61 inHg),"Philippines, China, Vietnam",$8.08 billion,222,2010S
+Mangkhut,TBA,"September 7 – 17, 2018",Typhoon,205 km/h (125 mph),905 hPa (26.72 inHg),"Guam, Philippines, Taiwan, China",$3.74 billion,134,2010S
+Fanapi,Rai,"September 14 – 21, 2010",Typhoon,175 km/h (110 mph),930 hPa (27.46 inHg),"Taiwan, China",$1 billion,105,2010S
+Utor,Barijat,"August 8 – 18, 2013",Typhoon,195 km/h (120 mph),925 hPa (27.32 inHg),"Philippines, China",$3.56 billion,97,2010S
+Kai-tak,Yun-yeung,"December 13 – 23, 2017",Tropical storm,75 km/h (45 mph),994 hPa (29.35 inHg),"Philippines, Malaysia",$75 million,83,2010S
+Koppu,Koguma,"October 12 – 21, 2015",Typhoon,185 km/h (115 mph),925 hPa (27.32 inHg),Philippines,$309 million,62,2010S
+Rumbia,TBA,"August 15 – 18, 2018",Tropical storm,85 km/h (50 mph),985 hPa (29.09 inHg),"Japan, China",$5.36 billion,53,2010S
+Melor,Cempaka,"December 9 – 17, 2015",Typhoon,175 km/h (110 mph),935 hPa (27.61 inHg),Philippines,$149 million,51,2010S
+Meranti,Nyatoh,"September 9 – 16, 2016",Typhoon,220 km/h (140 mph),890 hPa (26.28 inHg),"Philippines, Taiwan, China",$4.8 billion,47,2010S
+Soudelor,Saudel,"July 29 – August 11, 2015",Typhoon,215 km/h (130 mph),900 hPa (26.58 inHg),"Mariana Islands, Japan, Taiwan, China",$3.84 billion,40,2010S
+Sarika,Trases,"October 13 – 19, 2016",Typhoon,175 km/h (110 mph),935 hPa (27.61 inHg),"Philippines, China, Vietnam",$876 million,37,2010S
+Mujigae,Surigae,"September 30 – October 5, 2015",Typhoon,155 km/h (100 mph),950 hPa (28.05 inHg),"Philippines, China",$4.25 billion,29,2010S
+Hato,Yamaneko,"August 19 – 24, 2017",Typhoon,140 km/h (85 mph),965 hPa (28.50 inHg),"Philippines, Taiwan, China, Vietnam",$6.82 billion,24,2010S
+Haima,Mulan,"October 14 – 22, 2016",Typhoon,215 km/h (130 mph),900 hPa (26.58 inHg),"Philippines, Taiwan, China",$976 million,19,2010S
+Vicente,Lan,"July 18 – 25, 2012",Typhoon,150 km/h (90 mph),950 hPa (28.05 inHg),"Philippines, China Vietnam, Laos, Burma",$324 million,13,2010S
+Nock-ten,Hinnamnor,"December 20 – 28, 2016",Typhoon,195 km/h (120 mph),915 hPa (27.02 inHg),Philippines,$128 million,13,2010S
+Fitow,Mun,"September 29 – October 7, 2013",Typhoon,140 km/h (85 mph),960 hPa (28.35 inHg),"China, Taiwan, Japan",$10.4 billion,12,2010S
+Sonamu,Jongdari,"January 1 – 10, 2013",Severe tropical storm,95 km/h (60 mph),990 hPa (29.23 inHg),"Philippines, Vietnam, Malaysia",Minimal,2,2010S
